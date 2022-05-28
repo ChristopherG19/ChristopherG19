@@ -15,9 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I am currently studying (3rd Year) to be a Computer Science and IT Engineer 🧑🏽‍💻. I won a complete scholarship from the Juan Bautista Gutiérrez Foundation to start and complete my degree at the Universidad del Valle de Guatemala ⚡.  
+
 ![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristopherG19&hide=contribs,prs&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherG19&layout=compact&theme=tokyonight)](https://github.com/ChristopherG19/github-readme-stats)
 
+## Skills
+<div style="display: inline_block">
+  <img align="center" alt="Chris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Chris-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Chris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Chris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Chris-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div><br>
 
- ![Snake animation](https://github.com/ChristopherG19/ChristopherG19/blob/output/github-contribution-grid-snake.svg)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## Contact
+📫 Email: gar20541@uvg.edu.gt
+
+[<img src='https://img.icons8.com/ios-filled/344/linkedin.png' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/christopher-garc%C3%ADa-96b3371a0/)
+[<img src='https://img.icons8.com/ios-glyphs/344/github.png' alt='GitHub' height='40'>]([https://www.linkedin.com/in/christopher-garc%C3%ADa-96b3371a0/](https://github.com/ChristopherG19))
+
+![Snake animation](https://github.com/ChristopherG19/ChristopherG19/blob/output/github-contribution-grid-snake.svg)
