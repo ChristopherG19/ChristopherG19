@@ -35,7 +35,7 @@ I am currently studying (3rd Year) to be a Computer Science and IT Engineer 🧑
 ## Contact
 📫 Email: gar20541@uvg.edu.gt
 
-[<img src='https://img.icons8.com/ios-filled/344/linkedin.png' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/christopher-garc%C3%ADa-96b3371a0/)
-[<img src='https://img.icons8.com/ios-glyphs/344/github.png' alt='GitHub' height='40'>]([https://www.linkedin.com/in/christopher-garc%C3%ADa-96b3371a0/](https://github.com/ChristopherG19))
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/christopher-garc%C3%ADa-96b3371a0/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/ChristopherG19)
 
 ![Snake animation](https://github.com/ChristopherG19/ChristopherG19/blob/output/github-contribution-grid-snake.svg)
