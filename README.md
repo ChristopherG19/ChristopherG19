@@ -38,3 +38,7 @@ I'm currently studying (4th Year) to be a Computer Science and IT Engineer ðŸ§‘ð
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/ChristopherG19)
 
 ![Snake animation](https://github.com/ChristopherG19/ChristopherG19/blob/output/github-contribution-grid-snake.svg)
+
+### Profile Views:
+  ### 
+  ![Visitor Count](https://profile-counter.glitch.me/{TheDeloz-v2}/count.svg)
