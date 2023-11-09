@@ -34,8 +34,6 @@ I'm currently studying (4th Year) to be a Computer Science and IT Engineer 🧑�
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Contact
-📫 Email: gar20541@uvg.edu.gt
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/christopher-garc%C3%ADa-96b3371a0/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/ChristopherG19)
 
