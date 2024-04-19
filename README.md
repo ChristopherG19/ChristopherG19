@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently studying (5th Year) to be a Computer Science and IT Engineer 🧑🏽‍💻, also I’m currently working as security analyst in Seguros Universales. I won a complete scholarship from Juan Bautista Gutiérrez Foundation to start and complete my degree at the Universidad del Valle de Guatemala ⚡.  
+I'm currently studying (5th Year) to be a Computer Science and IT Engineer 🧑🏽‍💻, also I’m currently working as security analyst.  
 
 ![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristopherG19&hide=contribs,prs&theme=tokyonight)
 
