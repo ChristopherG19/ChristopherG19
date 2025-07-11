@@ -39,6 +39,5 @@ I'm a Computer Science and IT Engineer 🧑🏽‍💻, also I’m currently wor
 
 <!-- ![Snake animation](https://github.com/ChristopherG19/ChristopherG19/blob/output/github-contribution-grid-snake.svg) -->
 
-### Profile Views:
-  ### 
-  ![Visitor Count](https://profile-counter.glitch.me/{TheDeloz-v2}/count.svg)
+## Profile Views:
+  ![Visitor Count](https://komarev.com/ghpvc/?username=christophergp&abbreviated=true)
