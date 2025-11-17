@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Computer Science and IT Engineer 🧑🏽‍💻, also I’m currently working as security analyst.  
+I'm a Computer Science and IT Engineer 🧑🏽‍💻.  
 
 ![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristopherG19&hide=contribs,prs&theme=tokyonight)
 
